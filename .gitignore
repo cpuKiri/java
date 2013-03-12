@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+class Test1 {
+	public static void main(String[] args) {
+		System.out.print("This is a test! Hello World") ; // this is a test , but now I know the function overrided by java
+	}
+}
